@@ -48,5 +48,5 @@ cd finance-dashboard
 npm install
 npm run dev
 
-Open http://localhost:5173
- in your browser to view the dashboard.
+Open [http://localhost:5173](https://nimble-naiad-96f10c.netlify.app/)
+
